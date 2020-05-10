@@ -1,0 +1,50 @@
+# The Righteous Mind by Jonathan Haidt
+`2017-04-17`
+
+Too many books on popular science are either put together by a journalist who has no abiding interest in the subject, or by an academic who does have a serious research interest, but who uses their book to rehash a series of loosely related journal publications. 
+
+The Righteous Mind is neither of these, it is written by the leading researcher in the field of moral psychology, and it is clear and coherent intellectual narrative, building arguments from chapter to chapter, and describing, at the same time, Haidt's own journey from, as he sees it, a narrowly focused liberal, to someone who appreciates and accommodates a wider variety of moral considerations into their political understanding. 
+
+Even if you don't agree with his conclusions or are discomforted by his arguments, you really should be impressed by Haidt's honesty and rigour. And you're  likely to enjoy his book if you have any interest or background in social science, psychology, or philosophy. 
+
+The book starts with a sustained argument for an 'intuitionist' view of moral thinking, where reason and justification are rather epiphenomenal to the real processes by which moral judgments are formed. In Haidt's striking metaphor, moral reasoning is a public relations exercise carried out by the rider of an elephant over which he has almost no control.  The elephant comprises all the hidden psychological machinery which propels us towards moral intuitions. The riders fabricate post-hoc explanations for where our elephants have taken us.
+
+After his defense of intuitionism, Haidt describes the parts of the elephant; that is to say, the psychological components which deliver moral intuitions. Haidt calls these 'moral modules' and they make up a human being's basic ethical equipment. Major differences in moral intuitions are explained by the balance of usage of these modules. Each can be used to very different degrees by different people and different cultures. Haidt proposes six such modules, each module responsible for different areas of moral intuition: Care, Liberty, Fairness, Loyalty, Authority, and Sanctity. 
+
+In the final part of the book Haidt uses his framework to analyse the differences between conservative and liberal political thinking in contemporary America. For Haidt, liberal politics is driven almost exclusively by the Care and Fairness modules. Conservative politics, by contrast, derives and sustains its ethical intuitions from across all the moral modules. For Haidt this explains why liberals and conservatives find it so difficult to communicate, liberals are simply blind to several of the values on which conservatives base their moral judgments
+
+My description here is of course a simplification, and I have omitted a lot of substance that Haidt argues &ndash; for example about the evolutionary basis of the modules which he identifies &ndash; but I hope that it conveys the scope and ambition of Haidt's project. Even if you don't stay with Haidt all the way, you are going to learn a lot on the journey, and are likely to be persuaded by at least some of his ideas. 
+
+Although I am persuaded by much of what Haidt says, I am not completely convinced by his explanation of why political argument is so difficult and intense.  A liberal blindness to deep values might well be part of the explanation, but I'm not sure it is the only part, or even the most important. 
+
+Hadit presents himself as an erstwhile liberal whose limited perception of moral values has expanded to provide a more complete picture. He does not go so far as to say that he is now a conservative, but some from the left are likely to accuse him of that. I don't think that would be correct, however because, it seems to me, he is still fundamentally liberal in his view of the goals toward which political action should ultimately to be aimed.
+
+In this regard Haidt says that he is 'Durkheimian Utilitarian'.  
+
+> "...when we talk about making laws and implementing public policies in Western democracies that contain some degree of ethnic and moral diversity, then I think there is no compelling alternative to utilitarianism. I think Jeremy Bentham was right that laws and public policies should aim, as a first approximation, to produce the greatest total good." p 316
+
+What then of Loyalty, Authority and Sanctity? For Haidt, utilitarianism has to be tempered with the recognition that: "human flourishing requires social order and embeddedness" (p 316), and that social order and embeddedness require Loyalty, Authority and Sanctity. 
+
+Here are two issues with Haidt's arguments here.
+
+First, there are well known problems with using an abstract definition of utility to decide between policy proposals. For example, whose happiness should be counted when making a decision? All citizens? All humans? All sentient beings? All future generations, or only present ones? What distribution of happiness is permitted &ndash; is it ok if a few people are very, very happy, but the majority are little a bit miserable? What kinds of happiness should be taken into account? Are some people capable of higher degrees of happiness than others? 
+
+One way of answering these questions which would be consistent with Hadit's avowed ecumenicalism but not, I think, with his residual liberalism,  would be to use an expanded repertoire of moral concepts. So for example, loyalty would tend to privilege the happiness of those to whom one has strong social ties. Authority perhaps would lead to deference on these questions to those in power. Sanctity maybe to identifying the happiness of gods and angels as important goals.  Haidt doesn't contemplate these moves however. He allows that loyalty, authority and sanctity are important to creating a society in which happiness can be maximised, but doesn't seem to allow these concepts to focus the definition and scope of the happiness that should be aimed for. 
+
+A second issue for Haidt in this area is that his claim that 'there is no compelling alternative to utilitarianism' is simply false if by that he means by that no-one strongly believes alternatives to utilitarianism. For example, there is a view that the success of society should be measured by its strength and its domination of other societies. Or that what really matters is the creativity and intellectual sophistication of its elites. Such views might not seem compelling to Haidt, but &ndash; perhaps unfortunately &ndash; they have been and are compelling to many. Haidt says human happiness as a good in itself. But he doesn't try to justify why this should be the  ultimate goal of public policy. He treats non-liberal values as instrumental in achieving this end, but these values can also figure in peoples' judgments about the aims of "laws and public policies", with considerations of the 'general good' or aggregate happiness counting for little or nothing.  
+
+This concern is intensified by another potential issue with the book. A fairly obvious question for Haidt is why one should accept only the six modules he describes.  He himself describes how he supplemented an original list of five by adding Liberty, in the sense of freedom from unwanted constraint. But why stop at six? There are many value-laden concepts which seem good candidate modules, and it's not clear what criteria should be used for excluding them. For example Courage, Strength, Power, and Intelligence are all morally loaded, and seem to be of central importance to many peoples' moral judgments. 
+
+This is not in itself a terribly serious problem for Haidt. He could rightly respond that the six modules he proposes are an early hypothesis and it is be expected that the research programme that he has initiated might discover others. However the more modules there are, the greater the number of permutations of their various activation levels, the larger the space of moral configurations, and so the greater the potential distance between moral world-views. 
+
+For example take a conservative configuration which aims to entrench the authority of those already with power, valorises loyalty to those already with privilege, and extends its moral range to include strength, power, and the domination and destruction of perceived enemies an ends in themselves. In the US, such a configuration has recently trumped a more traditional conservative moral world-view. And the  biggest problem for liberals these days is not so much the comprehensibility of these goals, but their wrongness. For a liberal they are bad things for a society to be striving towards. 
+
+Where it is most intractable, political disagreement is about ends not means, and I don't think that Haidt sufficiently represents that fact. He appears to see political conflict as, mainly, a failure of communication and a debate about how best to achieve 'human flourishing'. But political groups have end goals which are completely inconsistent with one another, so even if communication were perfect, and everyone agreed on how potential changes would most likely be achieved, conflict would still be inevitable. 
+
+That said, even if today liberals' highest priority is resistance, there is a place, within that resistance, for Haidt's framework.  The framework helps to explain how we got to where we are: part of the story at least is that many people have felt that liberal politics has overlooked what they truly value.  And if that is true, then an important part of any liberal resistance must be to work out how these values can be engaged by a project that is still fundamentally liberal. 
+
+But that raises a disquieting question: is that really possible? Can there be a left-liberal politics that engages a wider array of values than Care and Fairness?  If not, and Haidt is right about the range of values that feature in the moral psychology of our species, then left-liberalism is doomed. Some, from the left as well as the right, may welcome that; but I have to say, it frightens me. 
+
+## References
+
+Jonathan Haidt (2013) The Righteous Mind. Penguin.

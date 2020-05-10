@@ -1,0 +1,3 @@
+narrative-vs-structural
+
+Any causal explanation of such a complex historical event as the 2008 crash will necessarily be complex. But one dimension of complexity is inherent in historical explanation itself, because such explanations can either be narrative or structural. Simply put, a narrative explanation shows one configuraiton of events leads to another, leading finally to the event under analysis. A structural analysis raises a more fundamental question. It assumes a certain narrative account, and then asks the quesiton: How could this happen? And, given that the outcome was something undesirable, which of course the crash most certainly was, it raises questions about how our world should be ordered to avoid such catastrophes in the future. 
