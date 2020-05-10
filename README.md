@@ -2,8 +2,6 @@
 
 Some are complete, those a have a publication date. If there's no publication date, it's on-going.
 
-Why doesn't **strong** work on chrome!!
-
 | Title | Pub Date |
 |---|---|
 | **Economics** | |
