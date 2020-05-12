@@ -34,7 +34,7 @@ As I said I am not going to quesion that these functions are definitive. I accep
 
 Now I'm going to introduce some basic concepts in terms of which the nature of money creation can be explained. 
 
-### Assets and Liabilities
+### Assets and Liabilities
 
 To understand the creation of money, you have to understand *assets* and *liabilities*. Here are a couple of key sentences which introduce and relate these concepts:
 
