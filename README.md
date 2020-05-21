@@ -12,8 +12,6 @@ Some are complete, those a have a publication date. If there's no publication da
 | [Notes on Crashed by Adam Tooze](crashed.md) | |
 | **COVID-19** | |
 | [UK Centric Timeline](uk-timeline.md) |
-| [Stats](stats.md) |
-| [Virulance and viral load](virulance-viral-load.md) |
 | **MISC** | |
 | [Review of The Righteous Mind by Jonathan Haidt](the-righteous-mind-by-jonathan-haidt.md) | 2017-04-17 |
 | [Review of Fantasyland by Kurt Anderson](fantasyland-by-kurt-anderson.md)| |
