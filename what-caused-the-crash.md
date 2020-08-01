@@ -1,7 +1,6 @@
 # What Caused the Crash?
 
 ## Intro
-## New York 2008
 
 I'd never been to New York, but in March 2008 I attended a tech conference there.  I had a great time, but on the TV news there was incessant talk about something called 'the sub-prime crisis'; it sounded bad, but from my narrow perspective its  immediate effect  was that the pound was at an all time high against the dollar, and New York was wonderfully affordable. We ate top-end restaurants and spent happy evenings searching for the perfect Martini. 
 
