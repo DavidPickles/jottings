@@ -102,7 +102,8 @@
 </tr>
 <tr>
 <td>3</td>
-<td>SAGE meeting. Imperial and LSHTM papers agree that spread could lead to 250K deaths in UK [Not clear from <a href="http://archive.is/n6vLL">Sunday Times</a> whether this was with mitigation measures. Think so. Also this article mentions 500K figure from Imperial if no control at all. Is this the first time the govt was made aware of 500K figure? I thought that figure came later ...] </td>
+<td>SAGE meeting. <a href="https://www.gov.uk/government/publications/summary-indicative-effects-of-non-pharmaceutical-interventions-npis-to-reduce-covid-19-transmission-mortality-2-march-2020">Imperial College Paper</a> forecasts 305K daths without full lockdown (basicaly if govt follows stringent containment policy but not full lockdown). Accordding to Panorama "Britain's Coronavirus Gamble" this was known to the Govt by 5th March  
+ </td>
 </tr>
 <tr>
 <td>3</td><td>Johnson <a href="https://www.theguardian.com/world/video/2020/mar/27/i-shook-hands-with-everybody-says-boris-johnson-weeks-before-coronavirus-diagnosis-video">declares he continues to shake hands with everybody</a>, including those in hospital.</td>
@@ -164,6 +165,7 @@
 <ul>
 <li>Over 70s not advaised to stay at home</li> 
 <li>Public gatherings are not banned</li>
+<li>Testing!@</li>
 </ul>
 </td>
 </tr>

@@ -8,7 +8,7 @@ Some are complete, those a have a publication date. If there's no publication da
 | [Money is created from nothing](money-is-created-from-nothing-V2.md) | 2017-04-17 |
 | [Short list of MMT references](mmt-references.md) | |
 | [Review of People's Quantitative Easing by Frances Coppola](peoples-qe-by-frances-coppola.md) | |
-| [Here we go again, CLOs and CDOs](clos.md)| |
+| [CLOs and CDOs: Here we go again?](cdos-and-clos.md)| |
 | [Notes on Crashed by Adam Tooze](crashed.md) | |
 | **COVID-19** | |
 | [UK Centric Timeline](uk-timeline.md) |

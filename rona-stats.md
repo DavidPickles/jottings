@@ -24,3 +24,4 @@
 | 1.3% | 07 May 2020 | [Anirban Basu: Estimating The Infection Fatality Rate Among Symptomatic COVID-19 Cases In The United States](https://www.healthaffairs.org/doi/full/10.1377/hlthaff.2020.00455)|
 | | | |
 | | | |
+
