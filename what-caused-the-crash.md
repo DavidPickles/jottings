@@ -2,7 +2,7 @@
 
 ## Intro
 
-I'd never been to that city before but in March 2008 I attended a tech conference in New York.  I had a great time but couldn't help noticing that on the TV news there was incessant talk about something called 'the sub-prime crisis'. It sounded bad, but from my narrow perspective its  immediate effect  was that the pound was at an all time high against the dollar, and New York was wonderfully affordable. We ate top-end restaurants and spent happy evenings searching for the perfect Martini. 
+In March 2008 I attended a tech conference in New York. I'd never been to that city before and I had a great time. But I couldn't help noticing that on the TV news there was incessant talk about something called 'the sub-prime crisis'. It sounded bad, but from my narrow perspective its  immediate effect  was that the pound was at an all time high against the dollar, and New York was wonderfully affordable. We ate top-end restaurants and spent happy evenings searching for the perfect Martini. 
 
 The tech conference was held in a hotel. I remember nothing about the conference apart from this: at the same hotel another event was being hosted, one concerning Bear Stearns, a bank I'd never heard of which, I gathered, was in some difficulty. The bar was full of worried bankers. An abiding memory is an overheard conversation:  "Oh my God!", said a man talking to his colleague,  "I'm down to my last ten million dollars!".
 
