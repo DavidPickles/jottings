@@ -2,13 +2,13 @@
 
 ## Intro
 
-I'd never been to New York, but in March 2008 I attended a tech conference there.  I had a great time, but on the TV news there was incessant talk about something called 'the sub-prime crisis'; it sounded bad, but from my narrow perspective its  immediate effect  was that the pound was at an all time high against the dollar, and New York was wonderfully affordable. We ate top-end restaurants and spent happy evenings searching for the perfect Martini. 
+I'd never been to that city before but in March 2008 I attended a tech conference in New York.  I had a great time but couldn't help noticing that on the TV news there was incessant talk about something called 'the sub-prime crisis'. It sounded bad, but from my narrow perspective its  immediate effect  was that the pound was at an all time high against the dollar, and New York was wonderfully affordable. We ate top-end restaurants and spent happy evenings searching for the perfect Martini. 
 
 The tech conference was held in a hotel. I remember nothing about the conference apart from this: at the same hotel another event was being hosted, one concerning Bear Stearns, a bank I'd never heard of which, I gathered, was in some difficulty. The bar was full of worried bankers. An abiding memory is an overheard conversation:  "Oh my God!", said a man talking to his colleague,  "I'm down to my last ten million dollars!".
 
 That a well-healed banker had only ten million dollars, and that I could afford to eat in posh New York restaurants did not seem to me to warrant much concern. And there were other reasons to be sanguine. I lived in London and had not bought any property. So I had seen  prices climb to an unreachable level; a wobbly property market gave me not anxiety, but hope.
 
-This was self-centered, and ignored the fact that people across the US were losing their homes and security. They were the immediate victims of this crisis. More forgivably I was utterly unaware that these events were the start of a global financial meltdown. 
+This was self-centered, and ignored the fact that people across the US were losing their homes and security. They were the immediate victims of this crisis. More forgivably I was utterly unaware that these events were the start of a global financial meltdown: 'The Crash'.
 
 The securities market of the early noughties was a system which, with hindsight, appears to have been ingeniously designed to blow-up. Its input were mortgages, its intended outputs included fees and income streams. But the machinery between input and output was an explosive device, and as the system operated it grew, and as it grew its explosive potential increased.  And, here's the clever part, to release that explosive potential, the system looped back and fashioned a detonation from its own input. The operation of the machine ramped up the risk of systematic, correlated failure in the mortgage market. And eventually that's exactly what happened. The machine caused the sub-prime crisis (bang!) which detonated the crash (BANG!).
 
