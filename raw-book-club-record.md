@@ -1,8 +1,12 @@
-# Book Club Book List
+# The (Generally) Non-Fiction Book Club Book List
 
 ## Intro
 
-Hello charles
+The (Generally) Non-Fiction Book Club has been running since time immemorial, and its origins are are disputed even by those who have attended from the start. 
+
+The ratings and comments are mine - I've tried to give a warning if the rating is controversial, but such is the nature of book club, I expect that which ratings are controversial and which are not will itself be disputed. 
+
+Not all books have ratings and comments - I'm working on that. Also I've probably missed some books. Help on both things gratefully received.
 
 ## Books
 ### It's Not About the Burqa: Muslim Women on Faith, Feminism, Sexuality and Race by Mariam Khan
@@ -88,7 +92,7 @@ rating: 8 warning
 - Fun read bursting with subsersive ideas
 - Made sense of much of my frustration with corporate life.
 - Some in the group thought it had big intellectual gaps, e.g. is it really waste when it is essential to try several ideas, many of which you know won't work?
-### Various Trans Readings
+### Papers and artices on trans issues by Various Authors
 ###  The New Working Class: How to Win Hearts, Minds and Votes by Claire Ainsley
 rating: 5
 - Well intentioned, well researched policy recommendations
