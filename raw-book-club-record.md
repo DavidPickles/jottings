@@ -34,16 +34,14 @@ rating: 9
 ### The Tyranny of Merit: Why the Promise of Moving Up Is Pulling America Apart by Michael Sandel
 rating: 7
 - Good read, arguably an important diagnosis of the current US malaise.
-- Caused debate, a lot around how to interpret the main arguments.
+- Caused debate, a lot around how to interpret the main arguments, so although his style seems very clear, evidently the substance isn't as clear as you might think.  
 ### The Triumph of Doubt: Dark Money and the Science of Deception by David Michaels
 rating: 5
 - Glad this book exists, it makes a solid case that there are serious problems with regulation in the US and globally.
 - A bit dull.
 ### War of Return, The: How Western Indulgence of the Palestinian Dream Has Obstructed the Path to Peace by Adi Schwartz and Einat Wilf
 rating: 6
-- Cogent argument.
-- Well written.
-- One sided, and I got the feeling one author was less inclined to give any sympathy or voice to the Palestinian side.
+- Cogent argument, well written, historically intereting but one sided. 
 ### The Precipice: Existential Risk and the Future of Humanity by Toby Ord
 rating: 6
 - Deep well written sustained analysis, but my interest was limited because of restriction to only existential threats which seems to omit the ones that should be most pressing.
@@ -93,18 +91,21 @@ rating: 8 warning
 - Made sense of much of my frustration with corporate life.
 - Some in the group thought it had big intellectual gaps, e.g. is it really waste when it is essential to try several ideas, many of which you know won't work?
 ### Papers and artices on trans issues by Various Authors
+- Included Kathleen Stock (concerned by some aspects of trans activism)
+- Provacative and interesting. 
+- We should do more sets of papers and articles, but it's a bit onerous having to put them together. 
 ###  The New Working Class: How to Win Hearts, Minds and Votes by Claire Ainsley
 rating: 5
 - Well intentioned, well researched policy recommendations
 - Earnest and a bit dull
 ### The Secret Barrister: Stories of the Law and How It's Broken by The Secret Barrister
 rating: 7
-- Eye opening descriptions of the shitshow that is the criminal law in the UK.
+- Eye-opening descriptions of the shitshow that is the criminal law in the UK.
 ###  Why I'm Longer Talking to White People About Race by Reni Eddo-Lodge
 rating: 6
 - Descriptions of the problems of being black in the UK
 - Well written and angry.
-- Felt like I wasn't the audience she was addressing, and if she doesn't want to talk to me, why should I care?
+- Felt I wasn't the audience she was addressing, and if she doesn't want to talk to me,  why should I care?
 ###  Hillbilly Elegy: A Memoir of a Family and Culture in Crisis by JD Vance
 rating: 8 warning
 - Life and culture in poor white America by someone who worked his way out.
@@ -154,7 +155,7 @@ rating: 7
 ### All That is Solid: How the Great Housing Disaster Defines Our Times, and What We Can Do About It by Danny Dorling
 rating: 6
 - Important topic.
-- Mixed reception in the group, some thought it lacked any economic sophistication.
+- Mixed reception in the group, some thought it lacked sufficient economic sophistication.
 ### Debt: The First 5000 Years by David Graeber
 rating: 9 warning
 - Extraordinary book, full of fascinating ideas of vital importance. Rich in anthropological stories and analyses, and a revisionist history of the world from the perspective of the concept of debt.
@@ -176,6 +177,7 @@ rating: 6
 ### Capital in the Twenty-First Century by Thomas Piketty
 rating: 7 warning
 - Huge book with endless historical detail.
+- Nearly broke the book club!
 ### The State in Capitalist Society by Ralph Miliband
 rating: 6
 - How come I can't remember anything about this apart from the fact it was well written and I enjoyed it a time?
@@ -206,11 +208,25 @@ rating: 7
 rating: 7
 ### Liberals & Cannibals: The Implications of Diversity by Steven Lukes
 ### What Good are the Arts? by Jonn Carey
+rating: 4 warning
+- Can't remember much about this except he seemed to be arguing unconvingly that they aren't much good for anything. 
 ### What's Left?: How the Left Lost its Way by Nick Cohen
+rating: 6
+- It was a long tie ago we read this, and I think it even preceded Corbyn. 
 ### Where have all the intellectuals gone? by Frank Furedi
+rating: 4 warning
+- Christ! Almost no memory of this except it seemed a fairly pointless provocation. 
 ### Life at the Bottom: The Worldview That Makes the Underclass by Theodore Dalrymple
+rating: 8
+- I've got a soft spot for Theodore Dalrymple, he's worked with the people he describes, and cares about them. 
+- He's a reactionary of sorts, but thoughful and compassionate. 
 ### Freedom Evolves by Daniel Dennett
+rating: 7 warning
+- Like much of the philosophy, half the book group couldn't see the point. 
+- Elegantly written of course (it's Dennett), and I've given it 7 if only for the global coin-tossing competition image, which I love. 
 ### Sacred Cows: Is Feminism Relevant to the New Millennium? by Rosalind Coward
+rating: 5 warning
+- Left no impression!
 ###  England An Elegy by Roger Scruton
 rating: 8
 - Suprisingly enjoyable.
@@ -226,13 +242,34 @@ rating: 9
 rating: 6 warning
 - Only the vaguest memory of this - I think it seemed a convincing historial account.
 ### The Third Way and its Critics: Sequel to "The Third Way" by Anthony Giddens
+rating: 5 warning
+- All trace of this melted from my brain a long time ago. 
 ### Fundamentalism: The Search For Meaning by Malise Ruthven
+rating: 6 warning
+- Not much trace of this in my mind, other than a vaguely positive blur.
 ### The Likes of Us: An Official Biography of the White Working Class by  Michael Collins
-### An Intimate History of Humanity by Theodore Zeldin 
+rating: 8
+- Reading this was the first time I'd come across the argument that the white working class is being systemically discriminated against. 
+- Important given the Brexit and the general rise of nationalist populism, driven, to a great extent by the demographic that Collins was describing. 
+### An Intimate History of Humanity by Theodore Zeldin
+rating: 2
+- Pretentious twaddle about insufferable people. 
 ### The Life you can Save: How To Do Your Part To End World Poverty by Peter Singer
+rating: 8
+- Powerfully written
+- A call to action I'm never going to take. So just one of the many reasons I feel vaguely ashamed of myself.
 ### Animal Liberation by Peter Singer
+rating: 8
+- Powerful case for treating animals better.
+- Ok I do eat less meat because of this, but I'm not doing nearly enough. 
 ### The Spirit Level: : Why Equality is Better for Everyone by Kate Pickett and Richard Wilkinson
+rating: 9
+- Convincing arguments for how damaning inequality is to societies.
+- Prophetic, things have not got better and some of the chickens are coming home to roost. 
 ### The Paradox of Choice: Why More is Less by Barry Schwartz
+rating: 7
+- What it feels like to be aware of opportunity cost - not nice.
+- Simple but convincing, not clear what the solution is though. 
 ### A Quesiton of Trust: The Reith Lectures 2002 by Onara O'Neill
 ### Fear of Knowledge: Against Relativism and Constructivism by Paul Boghassian
 ### The Essential Difference: Men, Women and the Extreme Male Brain by Simon Baron Cohen
