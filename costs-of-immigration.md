@@ -11,10 +11,32 @@
 > Where have I got it wrong ?
 
 
+First some questions of interpretation. 
 
-"So overall the coffers are worse off" 
+It looks like you're trying to show  that a migrant entering the UK workforce affects some economically important financial total which you call 'the coffers' So I'll refer to that as the 'coffer value'.
 
-It looks like you're trying to show how this person working in the UK for a period of time affects some financial total which you call 'the coffers' So I'll refer to that as the 'coffer value'.
+Perhaps by coffers you mean overall government debt? And I guess that because you see you example affecting the government deficit (expenditure - income) over a short time period. Anyway that's what I'm going to assume you mean. 
+
+I think what your saying is that a migrant entering the workforce for the first time will not reduce governement debt as much as an unemployed person finding work. 
+
+
+THere are lots of issues with what you say. 
+
+One of them, as you know, is that I don't believe that gov debt is a good measure of economic well being. See the defecit myth. I'll say something about that later, and highlight some other issues first,  because I know you don't like the claim that government debt is bad measure, and there are other issues to bring out before we get into those waters again. 
+
+So here are a list of points. 
+
+First point, which you might be able to accept quite easily? If this argument were valid it would work for anyone entering  the workforce who was not previously on benefits. So for example, take a young native person who's not on benefits who comes into the workforce  - they take their first job. If the coffers value would go down if a migrant enters the workforce, the coffers value would likewise go down if a native who was not previously on benefits enters the workforce.n 
+
+Second point the argument doesn't scale. There are actually several reasons for this, so I'll number them. 
+
+2.1 In your model a person getting work needs to be paired with
+
+Secondly, do you think that your argument shows that as people enter the workforce the coffers value goes down? In other words are you claiming that the coffers value is inversely proportional to the number of people entering the workforce?
+
+
+
+
 
 Perhaps by coffer value you mean the government deficit (expenditure - income) over a short time period. Is that right? 
 
