@@ -1,3 +1,5 @@
++ imms wil require goods and services that the other imms cant supply,  nice to have diagram
+
 > So we have a non skilled supermarket job that pays 12k a year.
 > A person is recruited from the eastern block in preference from locally at the same rate.
 > A single young fit and healthy person who has no side demands on the state.
